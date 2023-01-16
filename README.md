@@ -1,6 +1,5 @@
 ----------- Unturned Server Manager -----------
 
-Version: Public 4.0.1.2
 
 # Requirements:
 
